@@ -1,0 +1,14 @@
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\obj\Debug\netcoreapp3.1\BFBSE.csproj.AssemblyReference.cache
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\obj\Debug\netcoreapp3.1\BFBSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\obj\Debug\netcoreapp3.1\BFBSE.AssemblyInfoInputs.cache
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\obj\Debug\netcoreapp3.1\BFBSE.AssemblyInfo.cs
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\obj\Debug\netcoreapp3.1\BFBSE.csproj.CoreCompileInputs.cache
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\bin\Debug\netcoreapp3.1\BFBSE.exe
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\bin\Debug\netcoreapp3.1\BFBSE.deps.json
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\bin\Debug\netcoreapp3.1\BFBSE.runtimeconfig.json
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\bin\Debug\netcoreapp3.1\BFBSE.runtimeconfig.dev.json
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\bin\Debug\netcoreapp3.1\BFBSE.dll
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\bin\Debug\netcoreapp3.1\BFBSE.pdb
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\obj\Debug\netcoreapp3.1\BFBSE.dll
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\obj\Debug\netcoreapp3.1\BFBSE.pdb
+C:\Users\Debodip Chowdhury\OneDrive\Documents\BFBSE\BFBSE\obj\Debug\netcoreapp3.1\BFBSE.genruntimeconfig.cache

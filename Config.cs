@@ -67,7 +67,7 @@ namespace BFBSE
         };
 
         // For single schedule: using config trader schedule, or command-line trader schedule.
-        public static int NumTrials = 10;
+        public static int NumTrials = 1000;
  
         // For multiple schedules: using input csv file.
         public static int NumSchedulesPerRatio { get; } = 10;  // Number of schedules per ratio of traders in csv file.

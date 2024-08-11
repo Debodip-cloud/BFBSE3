@@ -6,7 +6,7 @@ namespace BFBSE
     class Config
     {
         // Batch interval
-        public static int BatchInterval { get; } = 0.2; // Interval between batches in number of seconds.
+        public static double BatchInterval { get; } = 0.2; // Interval between batches in number of seconds.
 
         // General
         public static int SessionLength { get; } = 1;  // Length of session in seconds.

@@ -1,9 +1,3 @@
-dotnet run 5 0 0 0 15 0 0
-dotnet run 4 0 0 0 16 0 0
-dotnet run 3 0 0 0 17 0 0
-dotnet run 2 0 0 0 18 0 0
-dotnet run 1 0 0 0 19 0 0
-dotnet run 19 0 0 0 0 1 0
 dotnet run 18 0 0 0 0 2 0
 dotnet run 17 0 0 0 0 3 0
 dotnet run 16 0 0 0 0 4 0

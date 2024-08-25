@@ -1,12 +1,3 @@
-dotnet run 0 8 0 0 12 0 0
-dotnet run 0 8 0 12 0 0 0
-dotnet run 0 9 0 0 0 11 0
-dotnet run 0 9 0 0 11 0 0
-dotnet run 0 9 0 11 0 0 0
-dotnet run 0 10 0 0 0 10 0
-dotnet run 0 10 0 0 10 0 0
-dotnet run 0 10 0 10 0 0 0
-dotnet run 0 11 0 0 0 9 0
 dotnet run 0 11 0 0 9 0 0
 dotnet run 0 11 0 9 0 0 0
 dotnet run 0 12 0 0 0 8 0
